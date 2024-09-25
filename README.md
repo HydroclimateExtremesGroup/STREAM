@@ -66,6 +66,9 @@ For more details on the pixel-scale CSGD error model, see:
 
 Wright, D. B., Kirschbaum, D. B., & Yatheendradas, S. (2017). Satellite Precipitation Characterization, Error Modeling, and Error Correction Using Censored Shifted Gamma Distributions. Journal of Hydrometeorology, 18(10), 2801–2815. https://doi.org/10.1175/JHM-D-17-0060.1 
 
+# Citation
+Hartke, S., Wright, D., Liu, Y., Peng, K., Alexander, A., & Derin, Y. (2024). Space Time Rainfall Error and Autocorrelation Model (STREAM) (Version 1.1). Zenodo. https://doi.org/10.5281/zenodo.13840778
+
 # License
 STREAM is distributed under the MIT License:
 
